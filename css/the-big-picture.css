@@ -14,3 +14,13 @@ body {
 .container {
    background-color: #6f42c1;
 }
+
+.col-lg-12 {
+     width: 100%;
+     position: fit-content;
+     padding-left: 12%;
+ }
+
+ img {
+   position: center;
+ }
